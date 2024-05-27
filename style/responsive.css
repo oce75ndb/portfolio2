@@ -72,15 +72,15 @@
         padding: 100px 50px;
     }
 
-    .banner {
+    .header {
         padding: 150px 50px 100px;
     }
 
-    .banner h2{
+    .header h2{
         font-size: 1.5em;
     }
 
-    .banner h3 {
+    .header h3 {
         font-size: 1em;
     }
 
@@ -181,7 +181,7 @@
         justify-content: flex-start;
     }
 
-    .banner {
+    .header {
         padding: 150px 20px 100px;
     }
 
@@ -249,7 +249,7 @@
 }
 
 @media (max-width: 375px){
-    .banner h1 span {
+    .header h1 span {
         font-size: 1em;
     }
 }

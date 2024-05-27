@@ -128,7 +128,7 @@ header ul li a:focus:after {
 #hamburger .bar:nth-child(2) {
     background-color: var(--dBlue);
 }
-  
+
 .bar {
     display: block;
     width: 45px;
@@ -141,8 +141,4 @@ header ul li a:focus:after {
 
 header.sticky .bar:nth-child(2n+1) {
     background-color: #000;
-}
-
-header.sticky #hamburger.active .bar:nth-child(2n+1) {
-    background-color: var(--dBlue);
 }
